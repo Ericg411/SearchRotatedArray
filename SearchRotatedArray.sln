@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchRotatedArray", "SearchRotatedArray\SearchRotatedArray.csproj", "{643BAFFF-0AA6-4758-A111-8D6B16DB3583}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SearchRotatedArray.Tests", "SearchRotatedArray.Tests\SearchRotatedArray.Tests.csproj", "{ABCD0387-2020-432B-941E-A9FCAF5295B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{643BAFFF-0AA6-4758-A111-8D6B16DB3583}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{643BAFFF-0AA6-4758-A111-8D6B16DB3583}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{643BAFFF-0AA6-4758-A111-8D6B16DB3583}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{643BAFFF-0AA6-4758-A111-8D6B16DB3583}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABCD0387-2020-432B-941E-A9FCAF5295B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABCD0387-2020-432B-941E-A9FCAF5295B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABCD0387-2020-432B-941E-A9FCAF5295B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABCD0387-2020-432B-941E-A9FCAF5295B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A91AB4F0-6FDF-4891-BDB1-36B4CF757CF2}
+	EndGlobalSection
+EndGlobal
